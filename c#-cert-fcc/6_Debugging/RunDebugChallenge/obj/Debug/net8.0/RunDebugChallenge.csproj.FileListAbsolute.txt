@@ -1,0 +1,14 @@
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\bin\Debug\net8.0\RunDebugChallenge.exe
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\bin\Debug\net8.0\RunDebugChallenge.deps.json
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\bin\Debug\net8.0\RunDebugChallenge.runtimeconfig.json
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\bin\Debug\net8.0\RunDebugChallenge.dll
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\bin\Debug\net8.0\RunDebugChallenge.pdb
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\obj\Debug\net8.0\RunDebugChallenge.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\obj\Debug\net8.0\RunDebugChallenge.AssemblyInfoInputs.cache
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\obj\Debug\net8.0\RunDebugChallenge.AssemblyInfo.cs
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\obj\Debug\net8.0\RunDebugChallenge.csproj.CoreCompileInputs.cache
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\obj\Debug\net8.0\RunDebugChallenge.dll
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\obj\Debug\net8.0\refint\RunDebugChallenge.dll
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\obj\Debug\net8.0\RunDebugChallenge.pdb
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\obj\Debug\net8.0\RunDebugChallenge.genruntimeconfig.cache
+c:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebugChallenge\obj\Debug\net8.0\ref\RunDebugChallenge.dll

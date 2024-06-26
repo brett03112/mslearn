@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\bin\Debug\net8.0\CodingChallenge5.exe
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\bin\Debug\net8.0\CodingChallenge5.deps.json
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\bin\Debug\net8.0\CodingChallenge5.runtimeconfig.json
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\bin\Debug\net8.0\CodingChallenge5.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\bin\Debug\net8.0\CodingChallenge5.pdb
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\obj\Debug\net8.0\CodingChallenge5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\obj\Debug\net8.0\CodingChallenge5.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\obj\Debug\net8.0\CodingChallenge5.AssemblyInfo.cs
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\obj\Debug\net8.0\CodingChallenge5.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\obj\Debug\net8.0\CodingChallenge5.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\obj\Debug\net8.0\refint\CodingChallenge5.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\obj\Debug\net8.0\CodingChallenge5.pdb
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\obj\Debug\net8.0\CodingChallenge5.genruntimeconfig.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\CodingChallenge5\obj\Debug\net8.0\ref\CodingChallenge5.dll

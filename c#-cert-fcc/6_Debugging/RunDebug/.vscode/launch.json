@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        
+
+        
+
+        {
+            "name": "C#: RunDebug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\RunDebug.csproj",
+            "launchConfigurationId": "TargetFramework=;RunDebug"
+        }
+    ]
+}

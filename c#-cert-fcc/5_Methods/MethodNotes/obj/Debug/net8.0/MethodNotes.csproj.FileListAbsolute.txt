@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\bin\Debug\net8.0\MethodNotes.exe
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\bin\Debug\net8.0\MethodNotes.deps.json
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\bin\Debug\net8.0\MethodNotes.runtimeconfig.json
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\bin\Debug\net8.0\MethodNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\bin\Debug\net8.0\MethodNotes.pdb
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\obj\Debug\net8.0\MethodNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\obj\Debug\net8.0\MethodNotes.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\obj\Debug\net8.0\MethodNotes.AssemblyInfo.cs
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\obj\Debug\net8.0\MethodNotes.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\obj\Debug\net8.0\MethodNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\obj\Debug\net8.0\refint\MethodNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\obj\Debug\net8.0\MethodNotes.pdb
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\obj\Debug\net8.0\MethodNotes.genruntimeconfig.cache
+C:\Users\brett\Documents\microsoft_tuts\5_Methods\MethodNotes\obj\Debug\net8.0\ref\MethodNotes.dll

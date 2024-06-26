@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\bin\Debug\net8.0\StringFormat.exe
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\bin\Debug\net8.0\StringFormat.deps.json
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\bin\Debug\net8.0\StringFormat.runtimeconfig.json
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\bin\Debug\net8.0\StringFormat.dll
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\bin\Debug\net8.0\StringFormat.pdb
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\obj\Debug\net8.0\StringFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\obj\Debug\net8.0\StringFormat.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\obj\Debug\net8.0\StringFormat.AssemblyInfo.cs
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\obj\Debug\net8.0\StringFormat.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\obj\Debug\net8.0\StringFormat.dll
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\obj\Debug\net8.0\refint\StringFormat.dll
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\obj\Debug\net8.0\StringFormat.pdb
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\obj\Debug\net8.0\StringFormat.genruntimeconfig.cache
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\StringFormat\obj\Debug\net8.0\ref\StringFormat.dll

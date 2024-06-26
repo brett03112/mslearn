@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\bin\Debug\net8.0\RunDebug.exe
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\bin\Debug\net8.0\RunDebug.deps.json
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\bin\Debug\net8.0\RunDebug.runtimeconfig.json
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\bin\Debug\net8.0\RunDebug.dll
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\bin\Debug\net8.0\RunDebug.pdb
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\obj\Debug\net8.0\RunDebug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\obj\Debug\net8.0\RunDebug.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\obj\Debug\net8.0\RunDebug.AssemblyInfo.cs
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\obj\Debug\net8.0\RunDebug.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\obj\Debug\net8.0\RunDebug.dll
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\obj\Debug\net8.0\refint\RunDebug.dll
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\obj\Debug\net8.0\RunDebug.pdb
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\obj\Debug\net8.0\RunDebug.genruntimeconfig.cache
+C:\Users\brett\Documents\microsoft_tuts\6_Debugging\RunDebug\obj\Debug\net8.0\ref\RunDebug.dll

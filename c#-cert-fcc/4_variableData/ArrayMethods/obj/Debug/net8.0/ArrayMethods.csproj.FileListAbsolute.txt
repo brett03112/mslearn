@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\bin\Debug\net8.0\ArrayMethods.exe
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\bin\Debug\net8.0\ArrayMethods.deps.json
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\bin\Debug\net8.0\ArrayMethods.runtimeconfig.json
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\bin\Debug\net8.0\ArrayMethods.dll
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\bin\Debug\net8.0\ArrayMethods.pdb
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\obj\Debug\net8.0\ArrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\obj\Debug\net8.0\ArrayMethods.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\obj\Debug\net8.0\ArrayMethods.AssemblyInfo.cs
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\obj\Debug\net8.0\ArrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\obj\Debug\net8.0\ArrayMethods.dll
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\obj\Debug\net8.0\refint\ArrayMethods.dll
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\obj\Debug\net8.0\ArrayMethods.pdb
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\obj\Debug\net8.0\ArrayMethods.genruntimeconfig.cache
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\ArrayMethods\obj\Debug\net8.0\ref\ArrayMethods.dll

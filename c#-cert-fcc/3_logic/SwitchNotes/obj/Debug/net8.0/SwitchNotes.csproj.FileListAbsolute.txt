@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\bin\Debug\net8.0\SwitchNotes.exe
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\bin\Debug\net8.0\SwitchNotes.deps.json
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\bin\Debug\net8.0\SwitchNotes.runtimeconfig.json
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\bin\Debug\net8.0\SwitchNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\bin\Debug\net8.0\SwitchNotes.pdb
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\obj\Debug\net8.0\SwitchNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\obj\Debug\net8.0\SwitchNotes.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\obj\Debug\net8.0\SwitchNotes.AssemblyInfo.cs
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\obj\Debug\net8.0\SwitchNotes.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\obj\Debug\net8.0\SwitchNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\obj\Debug\net8.0\refint\SwitchNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\obj\Debug\net8.0\SwitchNotes.pdb
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\obj\Debug\net8.0\SwitchNotes.genruntimeconfig.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\SwitchNotes\obj\Debug\net8.0\ref\SwitchNotes.dll

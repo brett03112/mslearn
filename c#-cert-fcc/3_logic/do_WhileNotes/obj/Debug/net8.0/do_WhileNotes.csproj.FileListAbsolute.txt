@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\bin\Debug\net8.0\do_WhileNotes.exe
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\bin\Debug\net8.0\do_WhileNotes.deps.json
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\bin\Debug\net8.0\do_WhileNotes.runtimeconfig.json
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\bin\Debug\net8.0\do_WhileNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\bin\Debug\net8.0\do_WhileNotes.pdb
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\obj\Debug\net8.0\do_WhileNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\obj\Debug\net8.0\do_WhileNotes.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\obj\Debug\net8.0\do_WhileNotes.AssemblyInfo.cs
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\obj\Debug\net8.0\do_WhileNotes.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\obj\Debug\net8.0\do_WhileNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\obj\Debug\net8.0\refint\do_WhileNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\obj\Debug\net8.0\do_WhileNotes.pdb
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\obj\Debug\net8.0\do_WhileNotes.genruntimeconfig.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\do_WhileNotes\obj\Debug\net8.0\ref\do_WhileNotes.dll

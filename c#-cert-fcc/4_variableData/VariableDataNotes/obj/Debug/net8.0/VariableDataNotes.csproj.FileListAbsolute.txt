@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\bin\Debug\net8.0\VariableDataNotes.exe
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\bin\Debug\net8.0\VariableDataNotes.deps.json
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\bin\Debug\net8.0\VariableDataNotes.runtimeconfig.json
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\bin\Debug\net8.0\VariableDataNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\bin\Debug\net8.0\VariableDataNotes.pdb
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\obj\Debug\net8.0\VariableDataNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\obj\Debug\net8.0\VariableDataNotes.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\obj\Debug\net8.0\VariableDataNotes.AssemblyInfo.cs
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\obj\Debug\net8.0\VariableDataNotes.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\obj\Debug\net8.0\VariableDataNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\obj\Debug\net8.0\refint\VariableDataNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\obj\Debug\net8.0\VariableDataNotes.pdb
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\obj\Debug\net8.0\VariableDataNotes.genruntimeconfig.cache
+C:\Users\brett\Documents\microsoft_tuts\4_variableData\VariableDataNotes\obj\Debug\net8.0\ref\VariableDataNotes.dll

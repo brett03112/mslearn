@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\bin\Debug\net8.0\forLoopNotes.exe
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\bin\Debug\net8.0\forLoopNotes.deps.json
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\bin\Debug\net8.0\forLoopNotes.runtimeconfig.json
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\bin\Debug\net8.0\forLoopNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\bin\Debug\net8.0\forLoopNotes.pdb
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\obj\Debug\net8.0\forLoopNotes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\obj\Debug\net8.0\forLoopNotes.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\obj\Debug\net8.0\forLoopNotes.AssemblyInfo.cs
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\obj\Debug\net8.0\forLoopNotes.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\obj\Debug\net8.0\forLoopNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\obj\Debug\net8.0\refint\forLoopNotes.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\obj\Debug\net8.0\forLoopNotes.pdb
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\obj\Debug\net8.0\forLoopNotes.genruntimeconfig.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\forLoopNotes\obj\Debug\net8.0\ref\forLoopNotes.dll

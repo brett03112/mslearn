@@ -1,0 +1,14 @@
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\bin\Debug\net8.0\Final.exe
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\bin\Debug\net8.0\Final.deps.json
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\bin\Debug\net8.0\Final.runtimeconfig.json
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\bin\Debug\net8.0\Final.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\bin\Debug\net8.0\Final.pdb
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\obj\Debug\net8.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\obj\Debug\net8.0\Final.AssemblyInfoInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\obj\Debug\net8.0\Final.AssemblyInfo.cs
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\obj\Debug\net8.0\Final.csproj.CoreCompileInputs.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\obj\Debug\net8.0\Final.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\obj\Debug\net8.0\refint\Final.dll
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\obj\Debug\net8.0\Final.pdb
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\obj\Debug\net8.0\Final.genruntimeconfig.cache
+C:\Users\brett\Documents\microsoft_tuts\3_logic\GuidedProj\obj\Debug\net8.0\ref\Final.dll
