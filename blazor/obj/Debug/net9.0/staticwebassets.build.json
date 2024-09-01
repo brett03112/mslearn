@@ -1,0 +1,1825 @@
+{
+  "Version": 1,
+  "Hash": "R3h56ssok1ddBU6+1ddy9ARt2UuYoDdXWfk6A22Vkvg=",
+  "Source": "blazor",
+  "BasePath": "_content/blazor",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "blazor\\wwwroot",
+      "Source": "blazor",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\",
+      "BasePath": "_content/blazor",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\0vdfp0pv4o-4i2ul4a7m5.gz",
+      "SourceId": "blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "blazor#[.{fingerprint=4i2ul4a7m5}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazor.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y37mk2ya09",
+      "Integrity": "gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazor.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\ejtexbvdz2-4i2ul4a7m5.gz",
+      "SourceId": "blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "blazor#[.{fingerprint=4i2ul4a7m5}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazor.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y37mk2ya09",
+      "Integrity": "gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazor.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\qsn37tp4vb-8inm30yfxf.gz",
+      "SourceId": "blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint=8inm30yfxf}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ndsngf4xxc",
+      "Integrity": "leQh2chAgQ3l5kVsqn2AJ1e5jzReqniQ1IqyMs2lKGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\s6x87qn7px-da95v2qkru.gz",
+      "SourceId": "blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "app#[.{fingerprint=da95v2qkru}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\app.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "35bsr2s5bp",
+      "Integrity": "Z2oZxhy3yCVx4TNMrDOMMpGuoPS7gb7KEuo/dm8OHbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\xw3wjv8cs1-bpk8xqwxhs.gz",
+      "SourceId": "blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint=bpk8xqwxhs}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8m0i91lda7",
+      "Integrity": "YE8mrumnFzCPf1H7Kt7DiQNHc+iSomAdAv4mKeRAV7M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazor.styles.css",
+      "SourceId": "blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "blazor#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "4i2ul4a7m5",
+      "Integrity": "LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazor.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazor.bundle.scp.css",
+      "SourceId": "blazor",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "blazor#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "4i2ul4a7m5",
+      "Integrity": "LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazor.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\app.css",
+      "SourceId": "blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\favicon.png",
+      "SourceId": "blazor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\",
+      "BasePath": "_content/blazor",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\s6x87qn7px-da95v2qkru.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000674763833"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z2oZxhy3yCVx4TNMrDOMMpGuoPS7gb7KEuo/dm8OHbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.css.gz",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\s6x87qn7px-da95v2qkru.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z2oZxhy3yCVx4TNMrDOMMpGuoPS7gb7KEuo/dm8OHbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z2oZxhy3yCVx4TNMrDOMMpGuoPS7gb7KEuo/dm8OHbc="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\s6x87qn7px-da95v2qkru.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000674763833"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z2oZxhy3yCVx4TNMrDOMMpGuoPS7gb7KEuo/dm8OHbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css.gz",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\s6x87qn7px-da95v2qkru.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z2oZxhy3yCVx4TNMrDOMMpGuoPS7gb7KEuo/dm8OHbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z2oZxhy3yCVx4TNMrDOMMpGuoPS7gb7KEuo/dm8OHbc="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.4i2ul4a7m5.bundle.scp.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\0vdfp0pv4o-4i2ul4a7m5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000569476082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4i2ul4a7m5"
+        },
+        {
+          "Name": "label",
+          "Value": "blazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.4i2ul4a7m5.bundle.scp.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4i2ul4a7m5"
+        },
+        {
+          "Name": "label",
+          "Value": "blazor.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.4i2ul4a7m5.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\0vdfp0pv4o-4i2ul4a7m5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4i2ul4a7m5"
+        },
+        {
+          "Name": "label",
+          "Value": "blazor.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.4i2ul4a7m5.styles.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\ejtexbvdz2-4i2ul4a7m5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000569476082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4i2ul4a7m5"
+        },
+        {
+          "Name": "label",
+          "Value": "blazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.4i2ul4a7m5.styles.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4i2ul4a7m5"
+        },
+        {
+          "Name": "label",
+          "Value": "blazor.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.4i2ul4a7m5.styles.css.gz",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\ejtexbvdz2-4i2ul4a7m5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4i2ul4a7m5"
+        },
+        {
+          "Name": "label",
+          "Value": "blazor.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.bundle.scp.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\0vdfp0pv4o-4i2ul4a7m5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000569476082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.bundle.scp.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\blazor.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.bundle.scp.css.gz",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\0vdfp0pv4o-4i2ul4a7m5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.styles.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\ejtexbvdz2-4i2ul4a7m5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000569476082"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.styles.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\scopedcss\\bundle\\blazor.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LI3+kj6qcJEZJnpIMen4Riuc/JzbQ5uXU+Lna3YwPkg="
+        }
+      ]
+    },
+    {
+      "Route": "blazor.styles.css.gz",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\ejtexbvdz2-4i2ul4a7m5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1755"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:10:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gra3R7wdzmjanOcnOBG1FkytMXppRNzTeD75rdCLqaQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\xw3wjv8cs1-bpk8xqwxhs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041891835"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23870"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YE8mrumnFzCPf1H7Kt7DiQNHc+iSomAdAv4mKeRAV7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css.gz",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\xw3wjv8cs1-bpk8xqwxhs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YE8mrumnFzCPf1H7Kt7DiQNHc+iSomAdAv4mKeRAV7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YE8mrumnFzCPf1H7Kt7DiQNHc+iSomAdAv4mKeRAV7M="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\xw3wjv8cs1-bpk8xqwxhs.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000041891835"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23870"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YE8mrumnFzCPf1H7Kt7DiQNHc+iSomAdAv4mKeRAV7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\qsn37tp4vb-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013392977"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74665"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"leQh2chAgQ3l5kVsqn2AJ1e5jzReqniQ1IqyMs2lKGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map.gz",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\qsn37tp4vb-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-gzip"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"leQh2chAgQ3l5kVsqn2AJ1e5jzReqniQ1IqyMs2lKGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-leQh2chAgQ3l5kVsqn2AJ1e5jzReqniQ1IqyMs2lKGE="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.gz",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\xw3wjv8cs1-bpk8xqwxhs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23870"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YE8mrumnFzCPf1H7Kt7DiQNHc+iSomAdAv4mKeRAV7M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YE8mrumnFzCPf1H7Kt7DiQNHc+iSomAdAv4mKeRAV7M="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\qsn37tp4vb-8inm30yfxf.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000013392977"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74665"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"leQh2chAgQ3l5kVsqn2AJ1e5jzReqniQ1IqyMs2lKGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map.gz",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\obj\\Debug\\net9.0\\compressed\\qsn37tp4vb-8inm30yfxf.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "74665"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-gzip"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"leQh2chAgQ3l5kVsqn2AJ1e5jzReqniQ1IqyMs2lKGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-leQh2chAgQ3l5kVsqn2AJ1e5jzReqniQ1IqyMs2lKGE="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "C:\\Users\\brett\\Documents\\cSharp\\microsoft-learn\\blazor\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 01 Sep 2024 08:09:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    }
+  ]
+}
